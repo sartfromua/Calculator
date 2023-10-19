@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_style">
+        <item name="backgroundTint">#008080</item>
+        <item name="android:textColor">#FF4500</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:fontFamily">@font/bowlby_one</item>
+    </style>
+</resources>
